@@ -5,7 +5,7 @@ I'm a Backend Developer. And, i'm studying backend at [Rocketseat](https://www.r
 
 #### Current stack
 - Main language: `Typescript`
-- Backend: `Node.js`
+- Backend: `Node.js`, `Python`, `Java`, `C++`
 - Frontend: `React.js`, `HTML5`, `CSS3`, `Javascript`
 - Layout Design: `Figma`
 - Version code control: `Git & GitHub`
